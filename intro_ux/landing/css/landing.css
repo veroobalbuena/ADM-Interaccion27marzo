@@ -5,6 +5,9 @@
 
 
 /* Clases de utilidades */
+.h-100 {
+   height: 100%;
+}
 
 .h-xs-1x {
    height: 75px;
@@ -122,4 +125,8 @@ img {
 }
 .width-auto {
    width: auto !important
+}
+
+.cortina{
+  background-color: rgba(255,255,255,0.7)
 }
